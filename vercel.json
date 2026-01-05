@@ -1,1 +1,5 @@
-Nn
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/app.py" }
+  ]
+}
